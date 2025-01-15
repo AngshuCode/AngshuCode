@@ -5,7 +5,7 @@
 - 📫 reach me on github
 - 😄 Pronouns: angshu+code
 - ⚡ Fun fact: programing is all time easy but if you try
-
+- chack protfolio (https://angshucode.github.io/AngshuCode/)
 <!---
 AngshuCode/AngshuCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
