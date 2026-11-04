@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AngshuCode
+- 👋 Hi,I am a simple programmer
 - 👀 I’m interested in code
 - 🌱 I’m currently learning JS adv
 - 💞️ I’m looking to collaborate on somthing usefull
